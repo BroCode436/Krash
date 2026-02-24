@@ -1,9 +1,0 @@
-
-{
-  "name": "KIET.Matters",
-  "description": "A premium, anonymous campus community platform for college students to share memes, gossip, and study resources safely.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
